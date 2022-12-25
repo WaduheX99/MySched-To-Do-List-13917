@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577457414233",
+    "firebase_url": "https://myscheddata-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myscheddata",
+    "storage_bucket": "myscheddata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577457414233:android:4f698e95929984eadd1148",
+        "android_client_info": {
+          "package_name": "com.example.MySched"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577457414233-m4423osts9ur61ev01p2r9gkiibd0u3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX55wdFaSQ6qi8C715gENlFLD101JQY9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577457414233-m4423osts9ur61ev01p2r9gkiibd0u3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
