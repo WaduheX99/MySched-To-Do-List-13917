@@ -11,6 +11,6 @@ MySched is a To Do List application (Mobile-based). This application was built u
 - Calendar View with dots for the schedule mark
 
 # Interface
-![alt text](https://github.com/WaduheX99/MySched-To-Do-List-13917/blob/master/Interface/test.png?raw=true) ![alt text](https://github.com/WaduheX99/MySched-To-Do-List-13917/blob/master/Interface/login.png?raw=true)
+![alt text](https://github.com/WaduheX99/MySched-To-Do-List-13917/blob/master/Interface/splashscreen.png?raw=true) ![alt text](https://github.com/WaduheX99/MySched-To-Do-List-13917/blob/master/Interface/login.png?raw=true)
 ![alt text](?raw=true)
 ![alt text](?raw=true)
