@@ -1,4 +1,4 @@
-## MySched - To Do List Application
+# MySched - To Do List Application
 ![alt text](https://github.com/WaduheX99/MySched-To-Do-List-13917/blob/master/app/src/main/res/drawable/logowithtext.png?raw=true)
 MySched is a To Do List application (Mobile-based). This application was built using Android Studio with Java and XML. This application is also equipped with FireBase to save user data.
 
